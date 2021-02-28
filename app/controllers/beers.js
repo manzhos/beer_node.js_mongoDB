@@ -1,3 +1,5 @@
+/* eslint-disable no-tabs */
+
 const mongoose = require('mongoose')
 
 const Beer = mongoose.model('Beer')
