@@ -30,3 +30,8 @@ body {
   display: inline-block;
   width: 30px;
 }
+
+.spacerleft15 {
+  display: inline-block;
+  width: 15px;
+}
